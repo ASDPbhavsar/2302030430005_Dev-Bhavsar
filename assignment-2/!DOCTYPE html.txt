@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="parent-a-top">
+      <section class="c-t-a-container">
+        <header class="logo-section">
+          <div class="logo-section-child"></div>
+          <div class="xyz1234-wrapper">
+            <div class="xyz1234">XYZ1234</div>
+          </div>
+          <div class="main-about-contact-price-wrapper">
+            <div class="main-about-contact">Main About Contact Price</div>
+          </div>
+          <div class="mdiinstagram-parent">
+            <img
+              class="mdiinstagram-icon"
+              loading="lazy"
+              alt=""
+              src="./public/mdiinstagram.svg"
+            />
+
+            <img
+              class="mingcutefacebook-fill-icon"
+              loading="lazy"
+              alt=""
+              src="./public/mingcutefacebookfill.svg"
+            />
+
+            <img
+              class="ant-designlinkedin-outlined-icon"
+              loading="lazy"
+              alt=""
+              src="./public/antdesignlinkedinoutlined.svg"
+            />
+          </div>
+        </header>
+      </section>
+      <section class="professional-wrapper">
+        <div class="professional">
+          <div class="special-secondpacket">
+            <div class="edit-like-a-pro-wrapper">
+              <h1 class="edit-like-a">Edit like a pro</h1>
+            </div>
+            <div class="accesstosharedchat">
+              <div class="and-make-money-wrapper">
+                <h1 class="and-make-money">and Make money</h1>
+              </div>
+              <div class="this-is-an">
+                This is an intensive program designed for those who want to
+                master skills of professional video editing and graphic design
+              </div>
+            </div>
+          </div>
+          <div class="videosonhowtoworkwithclients">
+            <div class="cta-parent">
+              <button class="cta">
+                <b class="order">Order</b>
+              </button>
+              <div class="buy-now">
+                <div class="parent-video-lectures">
+                  <b class="order-from-here">Order from here</b>
+                  <img
+                    class="akar-iconsarrow-back"
+                    loading="lazy"
+                    alt=""
+                    src="./public/akariconsarrowback.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="parent-a-top-inner">
+        <div class="frame-parent">
+          <div class="frame-wrapper">
+            <img
+              class="frame-child"
+              loading="lazy"
+              alt=""
+              src="./public/frame-7@2x.png"
+            />
+          </div>
+          <div class="vscode-iconsfile-type-photosh-parent">
+            <img
+              class="vscode-iconsfile-type-photosh"
+              loading="lazy"
+              alt=""
+              src="./public/vscodeiconsfiletypephotoshop.svg"
+            />
+
+            <div class="parent-mentoring-support">
+              <b class="photoshop">PhotoShop</b>
+            </div>
+            <div class="makicross-parent">
+              <img class="makicross-icon" alt="" src="./public/makicross.svg" />
+
+              <img
+                class="makicross-icon1"
+                alt=""
+                src="./public/makicross-1@2x.png"
+              />
+            </div>
+          </div>
+          <div class="parent-videos-on-working-with">
+            <button class="child-frame">
+              <img
+                class="logosadobe-after-effects-icon"
+                alt=""
+                src="./public/logosadobeaftereffects.svg"
+              />
+
+              <div class="after-effects-wrapper">
+                <b class="after-effects">After Effects</b>
+              </div>
+              <div class="c-t-a-mentoring-support">
+                <img
+                  class="makicross-icon2"
+                  alt=""
+                  src="./public/makicross-2.svg"
+                />
+              </div>
+            </button>
+          </div>
+        </div>
+      </section>
+      <section class="parent-creative-support">
+        <div class="video-deals"></div>
+        <div class="frame-button">
+          <div class="icon-set">
+            <div class="header-frame">
+              <div class="payment-frame">
+                <h1 class="details-of-users">Details of Users</h1>
+                <div class="instruction-frame"></div>
+              </div>
+            </div>
+            <div class="membership-text">
+              <div class="vector-scaling">
+                <div class="mentoring-session">
+                  <input class="name-" placeholder="Name :- " type="text" />
+
+                  <div class="mentor-rectangle"></div>
+                </div>
+                <div class="mentoring-session1">
+                  <input
+                    class="contact-number-"
+                    placeholder="Contact Number :- "
+                    type="text"
+                  />
+
+                  <div class="mentoring-session-child"></div>
+                </div>
+              </div>
+            </div>
+            <div class="homework-review">
+              <textarea class="company-logos" rows="{12}" cols="{33}">
+              </textarea>
+              <div class="instagram-tag">
+                <h2 class="email-id-">Email Id :-</h2>
+                <h2 class="address-">Address:-</h2>
+              </div>
+              <div class="twitter-tag">
+                <div class="vector-skills"></div>
+                <button class="cta1">
+                  <b class="send-us">Send us</b>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="logo-container">
+        <div class="video-lecture-container"></div>
+        <div class="c-t-a-frame">
+          <div class="who-am-i-container">
+            <p class="who">
+              <span>
+                <b>Who </b>
+              </span>
+            </p>
+            <p class="am-i">
+              <span>
+                <b>am </b>
+                <span class="i">
+                  <span class="i1">I</span>
+                </span>
+                <b class="b">
+                  <span class="span"> </span>
+                  <span class="span1">?</span>
+                </b>
+              </span>
+              <span class="span2">
+                <span class="span3"> </span>
+              </span>
+            </p>
+          </div>
+        </div>
+        <img
+          class="image-1-icon"
+          loading="lazy"
+          alt=""
+          src="./public/image-1@2x.png"
+        />
+      </section>
+      <section class="special-packets">
+        <div class="as-you-know-container">
+          <p class="as-you-know">As you know my nick name is XYZ1234.</p>
+          <p class="i-am-a">I am a video editor, blogger and investor.</p>
+          <p class="i-make-quality">
+            I make quality videos and make make money
+          </p>
+        </div>
+      </section>
+      <section class="frame-with-access">
+        <div class="monthly-subscription">
+          <div class="certificate-completion">
+            <div class="social-media-audiance-container">
+              <p class="p">
+                <b>250.00+</b>
+              </p>
+              <p class="social-media-audiance">Social Media Audiance</p>
+            </div>
+            <img
+              class="skill-iconsinstagram"
+              loading="lazy"
+              alt=""
+              src="./public/skilliconsinstagram.svg"
+            />
+          </div>
+          <div class="personal-call-frame">
+            <div class="mentoring-support-frame">
+              <img
+                class="emojionecamera-icon"
+                loading="lazy"
+                alt=""
+                src="./public/emojionecamera.svg"
+              />
+
+              <div class="videos-edit-by-container">
+                <p class="videos">
+                  <b>500+ Videos</b>
+                </p>
+                <p class="edit-by-me">edit by me</p>
+              </div>
+            </div>
+          </div>
+          <div class="monthly-subscription-inner">
+            <div class="fluent-emojieye-parent">
+              <img
+                class="fluent-emojieye-icon"
+                loading="lazy"
+                alt=""
+                src="./public/fluentemojieye.svg"
+              />
+
+              <div class="views-collected-my-videos-wrapper">
+                <div class="views-collected-my-container">
+                  <p class="views">
+                    <b>200.00+ Views</b>
+                  </p>
+                  <p class="collected-my-videos">Collected my videos</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="twitter-logo">
+        <div class="parent-video-lectures1"></div>
+        <div class="child-video">
+          <div class="access-period">
+            <div class="certificate">
+              <h1 class="what-awaits-you">What awaits you</h1>
+            </div>
+            <div class="client-support-videos"></div>
+          </div>
+        </div>
+      </section>
+      <section class="personal-call">
+        <div class="mentoring-support">
+          <div class="check-homework">
+            <div class="plate-1">
+              <div class="contact-info">
+                <h2 class="for-home">For home?</h2>
+              </div>
+              <div class="vector-logos-linkedin">
+                <div class="skilliconstwitter">
+                  <img
+                    class="emojionecamera-icon1"
+                    alt=""
+                    src="./public/emojionecamera-1.svg"
+                  />
+                </div>
+                <div class="is-an-intensive-container">
+                  <p class="is-an-intensive">
+                    Is an intensive program designed for those who dream of
+                  </p>
+                  <p class="mastering-professional-video">
+                    mastering professional video
+                  </p>
+                  <p class="editing-and-graphic">
+                    editing and graphic design skills
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="contact-me">
+            <div class="plate-2">
+              <div class="what-it-gives-wrapper">
+                <h2 class="what-it-gives">What it gives?</h2>
+              </div>
+              <div class="emojionerocket-parent">
+                <img
+                  class="emojionerocket-icon"
+                  alt=""
+                  src="./public/emojionerocket.svg"
+                />
+
+                <img
+                  class="vector-speed-line"
+                  loading="lazy"
+                  alt=""
+                  src="./public/vector.svg"
+                />
+              </div>
+              <div class="this-course-offers-container">
+                <p class="this-course-offers">
+                  This course offers participants a
+                </p>
+                <p class="unique-opportunity-to">
+                  unique opportunity to immerse
+                </p>
+                <p class="fascinating-world">fascinating world ofcreativity</p>
+              </div>
+            </div>
+          </div>
+          <div class="rectangle-certified-learning">
+            <div class="plate-3">
+              <h2 class="experiences">Experiences</h2>
+              <img
+                class="image-2-icon"
+                loading="lazy"
+                alt=""
+                src="./public/image-2@2x.png"
+              />
+
+              <div class="you-will-have">
+                You will have the opportunity to create your own video projects
+                compositions combining various styles, effects and visual
+                elements.
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="frame-monthly-materials">
+        <div class="vector-quick-order-videos"></div>
+        <div class="frame-client-interaction-tips">
+          <div class="rectangle-professional-growth">
+            <h1 class="price">Price</h1>
+            <div class="c-t-a-upgrade-button"></div>
+          </div>
+        </div>
+      </section>
+      <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+      <img class="vector-icon1" alt="" src="./public/vector.svg" />
+
+      <section class="text-node-course-description">
+        <div class="frame-access-info-frame">
+          <div class="vector-bonus-video-collection">
+            <div class="frame-mentor-support-details">
+              <div class="rectangle-professional-icon-ro">
+                <div class="text-node-payment-method-label"></div>
+                <div class="image-node-logo-showcase">
+                  <div class="image-node-logo-showcase-child"></div>
+                  <div class="payment-method-options">
+                    <h2 class="standart">Standart</h2>
+                    <div class="special-first-packet-parent">
+                      <div class="special-first-packet">
+                        Special First packet
+                      </div>
+                      <div class="logos-group"></div>
+                    </div>
+                  </div>
+                  <div class="image-node-logo-showcase-inner">
+                    <div class="frame-group">
+                      <div class="wrapper">
+                        <div class="div">$270</div>
+                      </div>
+                      <div class="frame-container">
+                        <div class="certificatecompletion-parent">
+                          <div class="certificatecompletion">
+                            <div class="videos-group">
+                              <img
+                                class="videolecture-icon"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="accesstosharedchat1">
+                                <div class="video-lecture-parent">
+                                  <div class="video-lecture">
+                                    15 video lecture
+                                  </div>
+                                  <div class="video-lecture1">
+                                    15 video lecture
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="videos-group1">
+                              <img
+                                class="vector-icon2"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="videos-group-inner">
+                                <div class="access-to-shared-chat-parent">
+                                  <div class="access-to-shared">
+                                    Access to shared chat
+                                  </div>
+                                  <div class="access-to-shared1">
+                                    Access to shared chat
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="vector-parent">
+                            <img
+                              class="vector-icon3"
+                              alt=""
+                              src="./public/vector.svg"
+                            />
+
+                            <div class="personal-call-icon-group">
+                              <div class="access-to-material-container">
+                                <p class="access-to-material">
+                                  Access to material for
+                                </p>
+                                <p class="months">3 months</p>
+                              </div>
+                              <div class="access-to-material-container1">
+                                <p class="access-to-material1">
+                                  Access to material for
+                                </p>
+                                <p class="months1">3 months</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="frames-skills">
+                          <img
+                            class="frames-skills-icon"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+
+                          <div class="certificate-completion1">
+                            Certificate completion
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="vector">
+                    <button class="cta2">
+                      <b class="buy-now1">Buy Now </b>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="button">
+              <div class="child-frame1">
+                <div class="child-frame-child"></div>
+                <div class="vector-icon4">
+                  <div class="access-parent">
+                    <div class="access">
+                      <h2 class="advance">Advance</h2>
+                      <div class="special-second-packet-wrapper">
+                        <div class="special-second-packet">
+                          Special Second packet
+                        </div>
+                      </div>
+                      <div class="rectangular-shape">
+                        <div class="box"></div>
+                      </div>
+                    </div>
+                    <div class="lecture-video">
+                      <div class="description-text">$350</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="button-node">
+                  <div class="skills-icons">
+                    <div class="lecture-materials">
+                      <div class="vector-icon-lecture">
+                        <img
+                          class="vector-icon5"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+
+                        <div class="video-lecture2">15 video lecture</div>
+                      </div>
+                    </div>
+                    <div class="chat-access-shared">
+                      <div class="material-access-months">
+                        <div class="certificate-completion2">
+                          <img
+                            class="fast-order-videos"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+
+                          <div class="client-work-videos">
+                            <div class="access-to-shared2">
+                              Access to shared chat
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="monthly-materials">
+                        <div class="certificate-completion-vid">
+                          <div class="package-content">
+                            <div class="package-content1">
+                              <img
+                                class="vector-icon-access"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+                            </div>
+                            <div class="access-to-material-container2">
+                              <p class="access-to-material2">
+                                Access to material for
+                              </p>
+                              <p class="months2">3 months</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="material-months-access">
+                          <div class="mentoring-support-nodes-wrapper">
+                            <div class="mentoring-support-nodes">
+                              <img
+                                class="checking-homework-icon"
+                                alt=""
+                                src="./public/vector.svg"
+                              />
+
+                              <div class="certificate-completion3">
+                                Certificate completion
+                              </div>
+                            </div>
+                          </div>
+                          <div class="certificates">
+                            <div class="professionalvideolecture">
+                              <div class="accesstosharedchat2">
+                                <div class="accessmaterialformonths">
+                                  <img
+                                    class="certificatecompletion-icon"
+                                    alt=""
+                                    src="./public/vector.svg"
+                                  />
+                                </div>
+                                <div class="videos-on-how-container">
+                                  <p class="videos-on-how">
+                                    +3Videos on how to get
+                                  </p>
+                                  <p class="a-cool-order">a cool order fast</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="videos-fast-orders">
+                              <div class="professionalvideolecture1">
+                                <img
+                                  class="accesstosharedchat-icon"
+                                  alt=""
+                                  src="./public/vector.svg"
+                                />
+                              </div>
+                              <div class="videos-on-how-container1">
+                                <p class="videos-on-how1">
+                                  +2 Videos on how to work
+                                </p>
+                                <p class="with-clients">with clients</p>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="certificatecompletion1">
+                            <img
+                              class="videosgetcoolorderfast-icon"
+                              alt=""
+                              src="./public/vector.svg"
+                            />
+
+                            <div class="videosworkclients">
+                              <div class="personal-call-with">
+                                +1 personal call with me
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="professional-packet-deal">
+                  <div class="wrapper-cta">
+                    <img
+                      class="cta-icon"
+                      loading="lazy"
+                      alt=""
+                      src="./public/cta.svg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="mentoring-support1">
+              <img class="vector-icon6" alt="" src="./public/vector-12.svg" />
+
+              <img class="vector-icon7" alt="" src="./public/vector.svg" />
+
+              <div class="frames-skills1">
+                <div class="frames-skills-child"></div>
+                <div class="frames-skills2">
+                  <div class="frames-skills3">
+                    <div class="professional-packet">
+                      <h2 class="professional1">Professional</h2>
+                      <div class="special-third-packet">
+                        Special Third packet
+                      </div>
+                    </div>
+                    <div class="frames-skills4"></div>
+                  </div>
+                </div>
+                <div class="shared-chat-access">
+                  <div class="monthly-material-access">$700</div>
+                </div>
+                <div class="certificate-completion4">
+                  <div class="contact-me-frame">
+                    <div class="vector-content">
+                      <img
+                        class="fast-order-videos1"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="client-work-videos1">
+                        <div class="video-lecture3">15 video lecture</div>
+                      </div>
+                    </div>
+                    <div class="frames-skills5">
+                      <img
+                        class="personal-call-support"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="mentoring-support2">
+                        <div class="access-to-shared3">
+                          Access to shared chat
+                        </div>
+                      </div>
+                    </div>
+                    <div class="c-t-a-button">
+                      <div class="package-content2">
+                        <div class="package-content3">
+                          <img
+                            class="parent-support-icon"
+                            alt=""
+                            src="./public/vector.svg"
+                          />
+                        </div>
+                        <div class="access-to-material-container3">
+                          <p class="access-to-material3">
+                            Access to material for
+                          </p>
+                          <p class="months3">3 months</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="material-access">
+                      <div class="video-lecture-access">
+                        <img
+                          class="shared-chat-access1"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+
+                        <div class="monthly-material-access1">
+                          <div class="certificate-completion5">
+                            Certificate completion
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="client-work-videos2">
+                      <div class="client-work-videos3">
+                        <img
+                          class="personal-call-icon"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+                      </div>
+                      <div class="videos-on-how-container2">
+                        <p class="videos-on-how2">+3Videos on how to get</p>
+                        <p class="a-cool-order1">a cool order fast</p>
+                      </div>
+                    </div>
+                    <div class="buy-now-c-t-a">
+                      <div class="buy-now2">
+                        <img
+                          class="payment-selection-icon"
+                          alt=""
+                          src="./public/vector.svg"
+                        />
+                      </div>
+                      <div class="videos-on-how-container3">
+                        <p class="videos-on-how3">+2 Videos on how to work</p>
+                        <p class="with-clients1">with clients</p>
+                      </div>
+                    </div>
+                    <div class="contact-me1">
+                      <img
+                        class="logos-and-skills"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="select-method">
+                        <div class="personal-call-with1">
+                          +1 personal call with me
+                        </div>
+                      </div>
+                    </div>
+                    <div class="checking-frame-parent">
+                      <img
+                        class="checking-frame-icon"
+                        alt=""
+                        src="./public/vector.svg"
+                      />
+
+                      <div class="mentoring-vector">
+                        <div class="mentoring-support3">+Mentoring Support</div>
+                      </div>
+                    </div>
+                    <div class="mentoring-support-rectangle">
+                      <img class="c-t-a" alt="" src="./public/vector.svg" />
+
+                      <div class="payment-method">
+                        <div class="checking-homework">+Checking Homework</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="call-to-action-frame">
+                  <button class="cta3">
+                    <b class="buy-now3">Buy Now </b>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="skills-logos-frame"></div>
+        <div class="rectangle">
+          <div class="select-payment-method-frame">
+            <div class="select-payment-method-wrapper">
+              <h1 class="select-payment-method">Select Payment Method</h1>
+            </div>
+            <img
+              class="image-7-icon"
+              loading="lazy"
+              alt=""
+              src="./public/image-7@2x.png"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="rectangle-frame">
+        <div class="c-t-a1"></div>
+        <div class="rectangle1">
+          <h1 class="contact-me2">Contact Me</h1>
+        </div>
+      </section>
+      <div class="skill-icons-instagram-vector">
+        <img
+          class="skill-iconsinstagram1"
+          alt=""
+          src="./public/skilliconsinstagram-1.svg"
+        />
+
+        <img
+          class="logos-linkedin-skilliconstwitt"
+          alt=""
+          src="./public/vector-23.svg"
+        />
+
+        <img
+          class="logoslinkedin-icon"
+          loading="lazy"
+          alt=""
+          src="./public/logoslinkedin.svg"
+        />
+
+        <img
+          class="skill-iconstwitter"
+          loading="lazy"
+          alt=""
+          src="./public/skilliconstwitter.svg"
+        />
